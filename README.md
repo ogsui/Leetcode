@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/ogsui/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ogsui/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ogsui/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ogsui/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ogsui/Leetcode/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ogsui/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ogsui/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
