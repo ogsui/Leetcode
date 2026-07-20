@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/ogsui/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1019-squares-of-a-sorted-array](https://github.com/ogsui/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ogsui/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ogsui/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ogsui/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/ogsui/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/ogsui/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ogsui/Leetcode/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/ogsui/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
