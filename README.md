@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ogsui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ogsui/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ogsui/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/ogsui/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ogsui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ogsui/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ogsui/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ogsui/Leetcode/tree/master/0908-middle-of-the-linked-list) |
