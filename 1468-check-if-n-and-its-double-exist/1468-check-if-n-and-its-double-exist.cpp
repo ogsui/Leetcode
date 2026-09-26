@@ -1,16 +1,18 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        for (int i = 0; i < arr.size(); i++) {
-            for (int j = 0; j < arr.size(); j++) {
-                if (arr[i] != 2 * arr[j] || (i == j)){
-                    continue;
+        unordered_set<int> seen;
+            for (int x : arr) {
+                if (x%2==0){
+                    if (seen.find(x/2)!= seen.end()) {
+                        return true;
+                    }
                 }
-                else{
-                    return true;
+                if (seen.find(x*2)!= seen.end()) {
+                        return true;
                 }
+                seen.insert(x);
             }
-        }
-        return bool();
-    }
+        return false;
+    };
 };
