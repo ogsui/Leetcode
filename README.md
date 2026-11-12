@@ -11,6 +11,7 @@
 | [0978-valid-mountain-array](https://github.com/ogsui/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ogsui/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ogsui/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ogsui/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ogsui/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ogsui/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/ogsui/Leetcode/tree/master/1603-running-sum-of-1d-array) |
